@@ -1,0 +1,405 @@
+
+.datPinkColor {
+	background-color: rgb(226,0,99);
+}
+
+#jumbotron {
+	background: rgb(77, 75, 75);
+	
+	padding: 30px;
+}
+
+
+.home{
+	border: 1 px solid rgb(145, 141, 141);
+	/* background: gainsboro; */
+	padding: 5px;
+	margin-bottom: 15px;
+	padding: 10px;
+	width: 1200px;
+
+	border-radius: 10px;
+
+}
+.text{
+	/* text-shadow: 2px 2px black; */
+	text-shadow: 3px 3px 3px rgb(235, 94, 155);
+	letter-spacing: 6px;
+	font-family:cursive,'Times New Roman', Times, serif;
+		margin-left: 30px;
+		font-size: 95px;
+		font-weight: bold;
+		color: black;
+		height: 100px;
+
+}
+.cards{
+	width: 410px;
+	height: 250px;
+	border: 1px solid rgb(214, 212, 212);
+	background: white;
+	border-radius: 40px;
+	
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 25px;
+	justify-content: space-evenly;
+}
+.food{
+	margin-top: 15px;
+}
+#bar-chart{
+	/* margin-left: 10px; */
+		/* float: right; */
+		/* background-color: rgb(243, 215, 215); */
+		font-size: 100px;
+		width: 500px;
+		height: 500px;
+
+	 
+	}
+	
+	canvas {
+		width: 500px;
+		height: 500px;
+	}
+	.gra{
+height: 200px;
+	}
+	.nav{
+	/* background-color: rgb(226,0,99); */
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+height: 600px;
+	
+	}
+	.navbar{
+		letter-spacing: 6px;
+		font-family:cursive;
+			margin-left: 30px;
+			font-size: 165px;
+			font-weight: bold;
+			color: rgb(68, 119, 230);
+			text-shadow: 3px 3px white;
+			width: 5000px;
+			
+	}
+	.dashboard{
+		letter-spacing: 6px;
+		font-family:cursive,'Times New Roman', Times, serif;
+			margin-left: 30px;
+			font-size: 115px;
+			font-weight: bold;
+			color: white;
+			height: 150px;
+	}
+	.box{
+display: flex;
+flex-direction: column;
+/* background-color: whitesmoke; */
+margin: 50px;
+margin-left: 80px;
+width: 5500px;
+height: 1000px;
+
+	}
+	.box1{
+		display: flex;
+		flex-direction: column;
+		background-color: white;
+		margin: 50px;
+		margin-left: 80px;
+		width: 5500px;
+		height: 800px;
+		
+		
+			}
+			.t1{
+		margin-top: 200px;
+		margin-left: 300px;
+
+
+			}
+			.box3{
+				display: flex;
+				flex-direction: column;
+				/* background-color: whitesmoke; */
+				margin: 50px;
+				margin-left: 80px;
+				width: 5500px;
+				/* height: 1000px; */
+				/*  */
+				
+					}
+				
+
+	.box2{
+		
+		/* background-color: whitesmoke; */
+		/* margin: 50px; */
+		/* margin-top: 80px; */
+		margin-left: 380px;
+display: flex;
+flex-wrap: wrap;
+		/* flex-direction: column; */
+	
+		
+			}
+	.boxheader{
+		background-color: rgb(226,0,99);
+		letter-spacing: 6px;
+		font-family:cursive,'Times New Roman', Times, serif;
+			/* margin-left: 30px; */
+			font-size: 85px;
+			font-weight: bold;
+			color: white;
+			height: 150px;
+			padding: 20px;
+			/* width: 1000px ; */
+	
+	}
+	.i{
+		width: 100px;
+		height: 100px;
+	}
+	.chart-container {
+		float:left;
+		  width: 36%;
+		max-width: 3000px;
+		max-height: 7000px;
+	
+	  }
+	  .row{
+		  display: flex;
+		  flex-wrap: wrap;
+	  }
+	  h1{
+		  font-weight: bold;
+		  font-size: 80px;
+
+	  }
+	  .flex{
+		  display: flex;
+	  }
+	  .top{
+		/* margin-top: 500px; */
+	  }
+	  .svg{
+		margin-top: 1000px;
+	  }
+	  .svg3{
+		  margin-top: 1000px;
+		margin-left: 100px;
+
+	  }
+	
+	  .svg1{
+		margin-top: 200px;
+		margin-left: -500px;
+
+	  }
+	 
+	  .title{
+		  font-size: 60px;
+		  font-weight: bold;
+		  font-family: 'Times New Roman', Times, serif;
+	  }
+	  #pie{
+		margin-left: 1000px;
+
+	  }
+	  #pie-chart{
+		margin-left: -1200px;
+
+	  }
+	  .svg4{
+		margin-top: 600px;
+
+	  }
+	  .piegraph{
+background-color: white;
+height: 1400px;
+margin-left: 70px;
+margin-right:180px;
+margin-top: -50px;
+
+
+
+
+	  }
+.lastgraph{
+	margin-top: 1600px;
+}	
+.table{
+	width: 1050px;
+	height: 750px;
+	border: 4px solid rgb(214, 61, 61);
+/* margin-left: 70px; */
+background-color: white;
+
+} 
+.table thead th{
+	border: 4px solid rgb(214, 61, 61);
+
+}
+
+
+th{
+	margin-top: 2px;
+	font-family:'Times New Roman', Times, serif;
+			/* margin-left: 30px; */
+			font-size: 55px;
+			font-weight: bold;
+		
+			border: 3px solid rgb(226,0,99);
+
+			color: rgb(42, 85, 165);
+}
+tr{
+
+	font-family:'Times New Roman', Times, serif;
+			/* margin-left: 30px; */
+			font-size: 55px;
+			font-weight: bold;
+			 
+}
+td{
+	border: 3px solid rgb(226,0,99);
+	font-family:'Times New Roman', Times, serif;
+	
+	font-size: 55px;
+	font-weight: bold;
+
+
+
+}
+.platform{
+	font-family:'Times New Roman', Times, serif;
+	/* margin-left: 30px; */
+	font-size: 60px;
+	font-weight: bold;
+	border: 4px solid rgb(226,0,99);
+
+	color: rgb(165, 126, 42);
+}
+
+
+
+.bo{
+	margin-left: 470px;
+	display: flex;
+	flex-wrap: wrap;
+	/* margin-top: 380px; */
+
+
+}
+
+
+
+#imageContainer1 img {
+    width:1500px;
+    height:1500px;
+	margin-left: 70px;
+	margin-bottom: 270px;
+	margin-top: 150px;
+border: 15px solid black;
+border-radius: 40px;
+
+}
+
+
+#imageContainer6 img {
+    width:800px;
+    height:500px;
+	margin-left: 70px;
+	margin-right: 70px;
+
+	margin-bottom: 270px;
+	margin-top: 150px;
+/* border: 2px solid black; */
+border-radius: 40px;
+
+}
+
+
+.footer-section{
+	/* letter-spacing: 6px;
+		font-family:'Times New Roman', Times, serif;
+			margin-left: 500px;
+			font-size: 75px;
+			font-weight: bold;
+			color: white;
+			text-shadow: 8px 3px black;*/
+		 width: 2000px;  
+
+			margin-top: 100px;
+			display: flex;
+			/* flex-wrap: wrap; */
+			
+}
+.footer-information{
+	letter-spacing: 6px;
+		font-family:'Times New Roman', Times, serif;
+			margin-left: 30px;
+			font-size: 85px;
+			font-weight: bold;
+			color: white;
+padding: 100px;
+			text-shadow: 8px 3px black;
+			width: 3000px;
+}
+.footer-information img{
+	width:200px;
+	height: 200px;
+padding: 30px;
+
+}
+.footer-section img{
+	width:700px;
+	height: 700px;
+padding: 10px;
+
+}
+.site-footer{
+	display: flex;
+	/* flex-wrap: wrap; */
+	flex-direction: row;
+    background:rgb(179, 176, 176);
+	/* width: 5000px; */
+
+
+
+}
+.team1{
+	letter-spacing: 6px;
+		font-family:'Times New Roman', Times, serif;
+			margin-left: 30px;
+			font-size: 85px;
+			font-weight: bold;
+			color: black;
+/* padding: 100px; */
+			/* text-shadow: 8px 3px black; */
+			width: 3000px;
+			
+
+}
+.team{
+	letter-spacing: 6px;
+		font-family:'Times New Roman', Times, serif;
+			margin-left: 30px;
+			font-size: 75px;
+			font-weight: bold;
+			color: white;
+padding-left: 100px;
+padding-top: 10px;
+
+			text-shadow: 8px 3px black;
+			width: 3000px;
+
+}
+
